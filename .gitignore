@@ -1,6 +1,8 @@
+input
 MetSim-tutorial-master
 usgs_streamflow
 z_old
+input/*
 MetSim-tutorial-master/*
 usgs_streamflow/*
 z_old/*
