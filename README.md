@@ -1,5 +1,6 @@
-#camels synthetic data
+# camels synthetic data
 ## Generating synthetic data for CAMELS, but can be done anywhere really, probably to analyze controlled nonstationarity.
+## MetSim is borrowed from github.com/UW-Hydro
 ## The synthetic data will be used in both physically based hydrology models, and future projections of climate scenarios.
 # Planned workflow
 1. Generate a synthetic data (matching observed statistics) record of:

@@ -1,3 +1,10 @@
+__pycache__/
+__pycache__/*
+dask-worker-space/
+dask-worker-space/*
+nldas_forcing_nc/*.nc
+nldas_forcing_txt/*.txt
+metsim_output/*.nc
 input
 MetSim-tutorial-master
 usgs_streamflow
