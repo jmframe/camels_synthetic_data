@@ -17,3 +17,4 @@ z_old/*
 z_trash/*
 .ipynb_checkpoints/*
 config_files/*.conf
+domain_CONUS_MX.nc
